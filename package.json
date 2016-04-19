@@ -23,7 +23,7 @@
     "travis": "npm test"
   },
   "dependencies": {
-    "yeoman-generator": "^0.17.7"
+    "yeoman-generator": "^0.22.6"
   },
   "devDependencies": {
     "mocha": "^1.21.4"
